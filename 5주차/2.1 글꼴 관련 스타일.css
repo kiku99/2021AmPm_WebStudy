@@ -1,0 +1,40 @@
+ font-family 글꼴 지정하기
+
+p{
+    font-family: serif;
+}
+
+@font-face {
+    font-family: 글꼴 이름;
+    src: url(글꼴 파일 경로);
+}
+
+
+
+
+
+ font-size 글자 크기 지정하기
+
+p{
+    font-size: 1px;
+}
+
+
+
+
+
+ font-weight 글자 굵기 지정하기
+
+p{
+    font-weight: bold;
+}
+
+
+
+
+
+ font-style 글자 스타일 지정하기
+
+p{
+    font-style: italic;
+}

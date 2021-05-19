@@ -1,0 +1,45 @@
+direction 글자 쓰기 방향 지정하기
+
+p{
+    direction: ltr;
+}
+
+
+
+
+
+text-align 텍스트 정렬하기
+
+p{
+    text-align: center;
+}
+
+
+
+
+
+text-indent 텍스트 들여쓰기
+
+p{
+    text-indent: 1px;
+}
+
+
+
+
+
+line-hight 줄 간격 조정하기
+
+p{
+    line-height: 1px;
+}
+
+
+
+
+
+text-overflow 넘치는 텍스트 표기하기
+
+p{
+    text-overflow: ellipsis;
+}

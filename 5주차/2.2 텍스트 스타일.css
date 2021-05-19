@@ -1,0 +1,35 @@
+ color 글자 색 지정하기
+
+p{
+    color: 색상;
+}
+
+
+
+
+
+text-decoration 텍스트에 줄 표시하기
+
+p{
+    text-decoration: overline;
+}
+
+
+
+
+
+text-shadow 텍스트에 그림자 추가하기
+
+p{
+    text-shadow: 가로거리 세로거리 번짐정도 색상;
+}
+
+
+
+
+
+letter-spacing 텍스트 간격 조절하기
+
+p{
+    letter-spacing: 1px;
+}
