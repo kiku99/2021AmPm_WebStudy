@@ -11,7 +11,7 @@ p{
 text-align 텍스트 정렬하기
 
 p{
-    text-align: center;
+    text-align:center;
 }
 
 
@@ -41,5 +41,5 @@ p{
 text-overflow 넘치는 텍스트 표기하기
 
 p{
-    text-overflow: ellipsis;
+    text-overflow:ellipsis;
 }

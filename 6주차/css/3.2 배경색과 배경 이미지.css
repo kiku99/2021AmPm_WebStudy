@@ -1,0 +1,20 @@
+1. background-color - 배경 색 지정하기
+    background-color : <색상>
+
+2. background-clip - 배경 적용 범위 조절하기
+    background-clip : border-box | padding-box | content-box
+
+3. background-image - 웹 요소에 배경 이미지 넣기
+    background-image : url(파일경로)
+
+4. background-size - 배경 이미지 크기 조절하기
+    background-image : auto | contain | cover | 크기 값 | 백분율    
+
+5. background-position - 배경 이미지 위치 조절하기
+    background-position : <수평위치> <수직위치>
+
+6. background-origin - 배경 이미지 기준 조절하기
+    background-origin : border-box | padding-box | content-box   
+
+7. background-attachment - 배경 이미지 고정하기
+    background-attachment : scroll | fixed
