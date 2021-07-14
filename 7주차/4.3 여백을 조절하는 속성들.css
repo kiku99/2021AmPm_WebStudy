@@ -1,0 +1,17 @@
+여백을 조절하는  속성들
+
+margin - 요소 주변여백 설정하기
+
+    margin-top: <크기> | <백분율> | auto
+    margin-bottom: <크기> | <백분율> | auto
+    margin-left: <크기> | <백분율> | auto
+    margin-right: <크기> | <백분율> | auto
+    margin: <크기> | <백분율> | auto
+
+padding - 콘텐츠 영역과 테두리 사이의 여백 설정하기
+
+    padding-top: <크기> | <백분율> | auto
+    padding-bottom: <크기> | <백분율> | auto
+    padding-left: <크기> | <백분율> | auto
+    padding-right: <크기> | <백분율> | auto
+    padding: <크기> | <백분율> | auto

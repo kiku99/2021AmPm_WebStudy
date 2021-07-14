@@ -8,7 +8,7 @@
     background-image : url(파일경로)
 
 4. background-size - 배경 이미지 크기 조절하기
-    background-image : auto | contain | cover | 크기 값 | 백분율    
+    background-size : auto | contain | cover | 크기 값 | 백분율    
 
 5. background-position - 배경 이미지 위치 조절하기
     background-position : <수평위치> <수직위치>
