@@ -1,0 +1,32 @@
+@keyframes  속성 - 애닌메이션 지점 설정하기
+
+    @keyframes <이름>{
+        <선택자> {<스타일}
+    }
+
+
+animation-name 속성 - 애니메이션 이름 지정하기
+
+    animation-name: <키프레임 이름> | none
+
+
+animation-duration 속성 - 애니메이션 실행 시간 설정하기
+
+    animatiom-duration: <시간>
+
+
+animation-direction
+
+    animation-direction: normal | alternate
+
+
+animation-iteration-count 속성 - 반복 횟수 지정하기
+
+    animation-iteration-count: <숫자> | infinite
+
+
+animaition-timing-function 속성 - 속도 곡선 지정하기
+
+    animaition-timing-function: linear | ease | ease-in | ease-out | ease-in-out    
+
+

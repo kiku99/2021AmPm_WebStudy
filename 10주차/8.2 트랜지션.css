@@ -1,0 +1,21 @@
+트랜지션
+
+transition-property 속성 - 트랜지션을 적용할 속성 지정하기
+
+    transition-property: all | none | <속성이름>
+
+
+transition-duration 속성 - 트랜지션 진행 시간 지정하기
+
+    transition-duration: <시간>
+
+
+transition-timing-function 속성 - 트랜지션 속도 곡선 지정하기
+
+    transition-timing-function: linear | ease | ease-in | ease-out | ease-in-out 
+
+
+transition-delay 속성 - 지연 시간 설정하기
+
+    transition-delay: <시간>
+
