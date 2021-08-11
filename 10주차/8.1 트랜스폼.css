@@ -4,7 +4,7 @@ transform 과 변형 함수
 
 translate 변형 함수 - 요소 이동시키기
 
-    transgorm:translate(x, y)
+    transform:translate(x, y)
     transgorm:translate3d(x, y, z)
     transgorm:translateX(x)
     transgorm:translateY(y)
@@ -21,6 +21,7 @@ scale 변형 함수 - 요소 확대/축소 하기
 rotate 변형 함수 - 요소 회전하기
 
     transform:rotate(각도)
+    
     transform:rotate(x, y, 각도)
     transform:rotate3d(x, y, z, 각도)
     transform:rotateX(x)
