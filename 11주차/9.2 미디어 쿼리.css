@@ -1,0 +1,18 @@
+미디어 쿼리
+
+@media [only | not] 미디어 유형 [and 조건] * [and 조건]
+
+
+ 웹 문서의 가로 너비와 세로 높이
+
+@media all (min-width:600px) and (max-width:959px)
+
+
+ 단말기의 가로 너비와 세로 높이
+
+@media all (min-device-width:320px) and (max-device-width:480px)
+
+
+ 화면 회전
+
+orientation: portrait | landscape
