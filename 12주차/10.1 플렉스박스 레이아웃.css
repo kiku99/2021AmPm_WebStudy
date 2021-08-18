@@ -1,0 +1,47 @@
+ 플렉스 박스 레이아웃
+
+    그리드 레이아웃을 기본으로 해 플렉스 박스를 원하는 위치에 배치하는것
+
+ 플렉스 박스의 장점
+
+    1줄의 코드 추가로 수평 정렬이 가능하다.
+    요소의 상하좌우 정렬, 순서 변경이 간단하다.
+    요소가 간격 조절이 간단하다.
+    서로 다른 height를 갖는 요소의 수평정렬 시, 간단히 상하중앙 정렬이 가능하다.
+
+
+ display 속성 - 플렉스 컨테이너 지정하기
+
+    display: flex | inline-flex
+
+ flex-direction 속성 - 플렉스 방향 지정하기
+
+    flex-direction: row | row-inverse | column | column-inverse
+
+ flex-wrap 속성 - 플렉스 항목을 한 줄 또는 여러 줄로 배치하기
+
+    flex-wrap: no-wrap | wrap | wrap-reverse
+
+ flex-flow 속성 - 플렉스 방향과 여러 줄의 배치를 한꺼번에 지정하기
+
+    flex-flow: <플렉스 방향> <플렉스 줄 배치>
+
+ order 속성 - 플렉스 항목의 배치 순서 바꾸기
+
+    order: 0 | 숫자
+
+ flex 속성 - 플렉스 항목 크기 조정하기
+
+    flex: <flex-grow> <flex-shrink> <flex-basis> | auto | initial
+
+ justify-content 속성 - 주축 기준의 배치 방법 지정하기
+
+    justify-content: flex-start | flex-end | center | space-between | space-around
+
+ align-item 속성 - 교차축 기준의 배치 망법 지정하기
+
+    align-item: stretch | flex-start | flex-end | center | baseline
+
+ align-content 속성 - 여러 줄일 떄의 배치 방법 지정하기
+
+    align-content: flex-start | flex-end | center | space-between | space-around

@@ -5,37 +5,38 @@
 <title>Fluid Grid Layout</title>
 <style>
 	#wrapper {
-		width:960px;
+		width:96%;
 		margin:0 auto;
 	}
 	header {  /* 헤더 */
-		width:960px;
+		width:100%;
 		height:120px;
 		background-color:#066cfa;
 		border-bottom:1px solid black;
 	}
 	.header-text{
-		font-size:40px;
+		font-size:3em;
 		color:white;
 		text-align:center;
 		line-height:120px;
 	}
 	.content {   /* 본문 */
 		float:left;
-		width:600px;
+		width:62.5%;
 		height:400px;	
-		padding:15px;
+		padding:1.5625%;
 		background-color:#ffd800;
 	}
 	.right-side {  /* 사이드 바 */
 		float:right;
-		width:300px;
+		width:31.25%;
 		height:400px;
-		padding:15px;
+		padding:1.5625px;
 		background-color:#00ff90;
 	}
 	footer {  /* 푸터 */
 		clear:both;
+		width: 100%;
 		height:120px;
 		background-color:#c3590a;
 	}
@@ -45,7 +46,7 @@
 <body>
 	<div id="wrapper">
 		<header>
-			<h1 class="header-text">고정 그리드 레이아웃</h1>
+			<h1 class="header-text">가변 그리드 레이아웃</h1>
 		</header>
 		<section class="content">
 			<h4>본문</h4>
