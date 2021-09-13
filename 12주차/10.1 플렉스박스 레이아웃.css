@@ -38,7 +38,7 @@
 
     justify-content: flex-start | flex-end | center | space-between | space-around
 
- align-item 속성 - 교차축 기준의 배치 망법 지정하기
+ align-item 속성 - 교차축 기준의 배치 방법 지정하기
 
     align-item: stretch | flex-start | flex-end | center | baseline
 
