@@ -1,0 +1,39 @@
+
+
+ 함수란?
+
+처리해야 할 과제에 따라 기능별로 여러 명령을 묶어 놓은 것
+
+
+
+ function 예약어를 사용해 선언
+
+function addNumber(){
+    var sum = 10 + 20;
+    console.log(sum);
+}
+
+function addNumber(a, b){
+    var sum = a + b;
+    console.log(sum);
+}
+
+
+
+ 익명함수
+
+var add = function(a, b){
+    return a + b;
+}
+add(10, 20);
+
+
+
+
+ ES6 버전 함수 표기법
+
+let add = (a, b) => a + b;
+add(10, 20);
+
+let hi = () => "안녕하세요";
+hi();
