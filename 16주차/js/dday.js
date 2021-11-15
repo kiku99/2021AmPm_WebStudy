@@ -4,7 +4,7 @@ var toNow = now.getTime();
 var toFirst = firstDay.getTime();
 var passedTime = toNow - toFirst;
 var passedDay = Math.round(passedTime/(24*60*60*1000));
-document.querySelector('#accent').innerText = passedDay + "일";
+document.querySelector('.accent').innerText = passedDay + "일";
 
 calcDate(100);
 calcDate(200);
