@@ -41,5 +41,5 @@ p{
 text-overflow 넘치는 텍스트 표기하기
 
 p{
-    text-overflow:ellipsis;
+    text-overflow: ellipsis;
 }
